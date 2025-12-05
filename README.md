@@ -41,7 +41,7 @@ Both tasks explore Transfer Learning (VGG16, ResNet18) versus training from scra
 
 ### Models Implemented
 
-1.  **VGG16 (Finetuned):** Pretrained on ImageNet, classifier head replaced. (Best Performance: \~99.79%)
+1.  **VGG16 (Finetuned):** Pretrained on ImageNet, classifier head replaced.
 
 2.  **ResNet18 (Pretrained):** Pretrained on ImageNet, fine-tuned entire network.
 
